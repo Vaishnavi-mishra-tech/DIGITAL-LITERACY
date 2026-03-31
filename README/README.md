@@ -40,7 +40,7 @@ Developed cyber safety resources explaining online threats and prevention method
 - Experience with GitHub repositories
 
 ##  Author
-Name - Khanak Lohana 
-Branch – ECE  
+Name - Vaishnavi Mishra
+Branch – CSE
 Course – CSE0001 Digital Literacy
 College - VIT Bhopal University
