@@ -41,6 +41,6 @@ Developed cyber safety resources explaining online threats and prevention method
 
 ##  Author
 Name - Vaishnavi Mishra
-Branch – CSE
+Branch – CSE CORE
 Course – CSE0001 Digital Literacy
 College - VIT Bhopal University
